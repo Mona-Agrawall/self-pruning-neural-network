@@ -1,10 +1,5 @@
 # Self-Pruning Neural Network — Report
 
-**Tredence AI Engineering Internship — Case Study Submission**  
-**Mona Mahendra Kumar Agrawal | RA2311003011733**
-
----
-
 ## 1. Why L1 on Sigmoid Gates Encourages Sparsity
 
 The sigmoid function maps each learnable `gate_score` to a value in the range (0, 1). Without regularization, the network has no incentive to reduce these gate values, and most connections remain active.
