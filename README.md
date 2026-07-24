@@ -1,10 +1,5 @@
 # Self-Pruning Neural Network
 
-**Tredence AI Engineering Internship — Case Study Submission**  
-**Mona Mahendra Kumar Agrawal | RA2311003011733**
-
----
-
 ## Overview
 
 This project implements a self-pruning neural network that learns to remove its own unnecessary weights **during training**, not as a post-training step.
